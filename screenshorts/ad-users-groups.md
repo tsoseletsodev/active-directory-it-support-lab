@@ -14,3 +14,5 @@
 <img width="1178" height="621" alt="image" src="https://github.com/user-attachments/assets/c53d8b57-de07-4e7e-ae55-5fa4fb5aea30" />
 - Management
 <img width="1185" height="680" alt="image" src="https://github.com/user-attachments/assets/b816f506-a728-4322-b46f-580e90ae4ec4" />
+- Security Groups
+<img width="1167" height="647" alt="image" src="https://github.com/user-attachments/assets/29d5862a-52df-44fa-86d4-3dbe97deac3f" />
