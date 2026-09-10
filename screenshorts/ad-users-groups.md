@@ -3,7 +3,7 @@
 # Organizational Units
 
 <img width="1177" height="603" alt="image" src="https://github.com/user-attachments/assets/30225165-8ef3-43c4-be43-09c7d1efa403" />
-# Domain Users
+## Domain Users
 # Admin
 <img width="926" height="561" alt="image" src="https://github.com/user-attachments/assets/024f9ce8-3a0c-4bca-978e-d8c99e3cd91c" />
 # Finance
