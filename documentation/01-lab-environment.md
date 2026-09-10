@@ -44,6 +44,7 @@ Gateway:
 
 PC01:
 192.168.134.129
+<img width="1168" height="881" alt="image" src="https://github.com/user-attachments/assets/cd42ae0c-787e-4b41-9baa-3eae620a8800" />
 
 
 
